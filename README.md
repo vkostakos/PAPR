@@ -17,7 +17,7 @@ Image source: [PAPR Wikipedia](https://en.wikipedia.org/wiki/Powered_air-purifyi
 - **[120mm PC fans](https://www.amazon.com.au/gp/product/B072LDYKQ6/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)**
   - Air volume: 38 CFM.
   - Static pressure: 58 Pa. 
-  - Fan pressure boost adapter [[stl](tbd)]. 
+  - Fan pressure boost adapter [[stl](https://github.com/HighTemplar-wjiang/PAPR/blob/master/stl/fan_booster.stl)]. 
 - **[Battery](https://www.amazon.com/Cigooxm-2000mAh-Battery-AR-Drone-Quadcopter/dp/B07V9D7SK1/ref=sr_1_3?dchild=1&keywords=ar+drone+battery+2000&qid=1586313933&s=electronics&sr=1-3)**
   - Voltage: 11.1 V.
   - Capacity: 2000 mAh.
