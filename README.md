@@ -22,3 +22,8 @@ Image source: [PAPR Wikipedia](https://en.wikipedia.org/wiki/Powered_air-purifyi
   - Voltage: 11.1 V.
   - Capacity: 2000 mAh.
 - **[Charger](https://www.amazon.com/Upgrade-1800mAh-Battery-Replacement-Balance/dp/B086GB7NRQ/ref=sr_1_2?dchild=1&keywords=ar+drone+battery+charger&qid=1586313993&sr=8-2)**
+- **[Filter](https://www.homehealthcareonline.com.au/shop-product/lung-health-monitoring/cpap-filter-10)**
+  - Resistance to flow
+    - 0.56 cmH20 at 1 l/sec
+    - 0.74 cmH20 at 5 l/sec
+    - <1.50 cmH20 at 14 l/sec
