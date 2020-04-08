@@ -1,5 +1,5 @@
 # PAPR (Powered Air-Purifying Respirator)
-DIY PAPR for health workers. 
+DIY PAPR for health workers (in progress).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Influenza_virus_research.jpg/800px-Influenza_virus_research.jpg" alt="drawing" width="250"/>
 
